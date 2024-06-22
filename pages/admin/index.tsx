@@ -10,7 +10,7 @@ const AdminDashboard: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <h1>Welcome to Admin page</h1>
+      <h1 className="bg-red-800">Welcome to Admin page</h1>
     </div>
   );
 };
